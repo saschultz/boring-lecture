@@ -1,0 +1,29 @@
+h2.intro {
+  text-align: center;
+  font-size: 32px;
+  color: #1fad9c;
+  text-shadow: 2px 2px white;
+}
+p.intro {
+  text-align: center;
+  font-size: 22px;
+  color: #1fad9c;
+  font-weight: bold;
+  text-shadow: 1px 1px white;
+}
+img.intro {
+  margin: auto;
+  display: block;
+  border-radius: 250px;
+}
+body {
+  background-image: url("http://hires.photospublic.com/PP57132607-Sunshine-on-a-Blue-and-Cloudy-Sky.jpg");
+}
+h1 {
+  color: white;
+  text-shadow: 2px 2px #1fad9c;
+}
+p.one {
+  color: white;
+  text-shadow: 1px 1px black;
+}
