@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $("button#gray").click(function() {
-    $("body").toggleClass("gray-background");
+  $("p.two").click(function() {
+    $("p.two").toggleClass("highlight");
   });
 });

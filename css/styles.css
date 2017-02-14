@@ -23,7 +23,12 @@ h1 {
   color: white;
   text-shadow: 2px 2px #1fad9c;
 }
-p.one {
+p.one, p.two {
   color: white;
   text-shadow: 1px 1px black;
+}
+
+.highlight {
+  background-color: #B1889A;
+  border: dotted;
 }
